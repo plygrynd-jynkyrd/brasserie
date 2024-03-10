@@ -1,0 +1,339 @@
+{
+  "starters": [
+    {
+      "name": "Caprese Salad",
+      "price": 8.99,
+      "id": "ebed6b20-0d1f-489b-9801-4815f251b1a2"
+    },
+    {
+      "name": "Bruschetta",
+      "price": 7.5,
+      "id": "1f820107-f0b7-4120-9474-28a3f5bf7acc"
+    },
+    {
+      "name": "Spinach Artichoke Dip",
+      "price": 9.99,
+      "id": "ba2c6768-7c1a-414b-8263-26b52144ccdf"
+    },
+    {
+      "name": "Calamari Rings",
+      "price": 11.5,
+      "id": "aa116798-7ada-4db5-beb7-e796f5658ca8"
+    },
+    {
+      "name": "Garlic Butter Shrimp",
+      "price": 13.99,
+      "id": "00f5f3ad-d790-4db2-91c6-d03f0a867b38"
+    },
+    {
+      "name": "Stuffed Mushrooms",
+      "price": 8.75,
+      "id": "90113087-f15f-4e5c-b92d-db4c8c2613eb"
+    },
+    {
+      "name": "Spring Rolls",
+      "price": 6.99,
+      "id": "f3c1abbc-a77d-4baa-9df0-4792708a21b6"
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "price": 7.5,
+      "id": "77d1043e-9b52-4fbf-aa97-11a43a0985c4"
+    },
+    {
+      "name": "Chicken Satay Skewers",
+      "price": 10.25,
+      "id": "b727d7be-a6f7-4c90-837b-e38b179a3175"
+    },
+    {
+      "name": "Nachos with Cheese and Guacamole",
+      "price": 12.5,
+      "id": "077b9265-e488-4a4b-bb76-07f85c07b2ff"
+    }
+  ],
+  "mainDishes": [
+    {
+      "name": "Chicken Alfredo Pasta",
+      "price": 15.99,
+      "id": "1365a961-6b5e-4ed5-80dc-c4f5991c993d"
+    },
+    {
+      "name": "Beef Stroganoff",
+      "price": 17.5,
+      "id": "3eae57a7-9669-48c3-a9f7-0905b97a7a5a"
+    },
+    {
+      "name": "Vegetarian Stir-Fry",
+      "price": 13.99,
+      "id": "461b2cb5-a54a-4dc3-a6e4-beca9269217e"
+    },
+    {
+      "name": "Grilled Salmon with Lemon Butter Sauce",
+      "price": 19.75,
+      "id": "a94f6a65-d44a-48e7-b943-801661ad6896"
+    },
+    {
+      "name": "Spaghetti Bolognese",
+      "price": 14.99,
+      "id": "acc5f7d8-25b4-40de-b966-44fe6a4ee0e1"
+    },
+    {
+      "name": "Chicken Parmesan",
+      "price": 16.5,
+      "id": "f9ce19b9-2274-43da-b690-028e6401389d"
+    },
+    {
+      "name": "Shrimp Scampi",
+      "price": 18.75,
+      "id": "4c5e68d4-8ff5-442a-a59b-037f7fd6dada"
+    },
+    {
+      "name": "Vegetable Curry",
+      "price": 14.5,
+      "id": "a14d1056-c68f-48dd-87b0-d9be4ef957da"
+    },
+    {
+      "name": "Beef Chili",
+      "price": 12.99,
+      "id": "6f86a3db-1aa3-4df4-ae30-ebb4d36837bb"
+    },
+    {
+      "name": "Chicken Teriyaki with Rice",
+      "price": 15.99,
+      "id": "175a0b1b-7e4a-4792-a102-6fd26d87a7c6"
+    },
+    {
+      "name": "Lamb Kebabs with Tzatziki",
+      "price": 17.5,
+      "id": "456590e1-04ff-4942-91eb-248f1038b3f3"
+    },
+    {
+      "name": "Chicken Enchiladas",
+      "price": 14.75,
+      "id": "1402c2b2-0450-4adf-9f7b-bda7c1ecfaec"
+    },
+    {
+      "name": "Vegetable Lasagna",
+      "price": 16.99,
+      "id": "dd5049e5-e589-4c02-bae9-845bd679df98"
+    },
+    {
+      "name": "Szechuan Beef with Broccoli",
+      "price": 18.5,
+      "id": "04dc9c8e-81e3-4ddf-a6d1-819882a4faad"
+    },
+    {
+      "name": "Pork Carnitas Tacos",
+      "price": 14.99,
+      "id": "5b012e39-ed27-48e7-97d9-158e534825c5"
+    },
+    {
+      "name": "Creamy Mushroom Risotto",
+      "price": 15.75,
+      "id": "ef52731e-8cf8-4c67-8485-d9de3bbc6374"
+    },
+    {
+      "name": "BBQ Pulled Pork Sandwich",
+      "price": 12.5,
+      "id": "b647b214-3686-4a27-a68f-8fcceed9e426"
+    },
+    {
+      "name": "Seafood Paella",
+      "price": 19.99,
+      "id": "d12470d4-c0b3-460b-8ed7-7a7e7a051a6e"
+    },
+    {
+      "name": "Chicken and Dumplings",
+      "price": 15.5,
+      "id": "7aae87fa-a081-491b-bdb3-ba002f600465"
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 16.99,
+      "id": "94a6ad80-6ec4-40f9-812b-deecae603625"
+    }
+  ],
+  "desserts": [
+    {
+      "name": "Chocolate Lava Cake",
+      "price": 7.99,
+      "id": "6e24a9dc-ddea-4cef-b9e6-953cb03ae029"
+    },
+    {
+      "name": "Tiramisu",
+      "price": 8.5,
+      "id": "8c05bda3-7ebe-4573-8cd7-814f835f85aa"
+    },
+    {
+      "name": "New York Cheesecake",
+      "price": 9.75,
+      "id": "902dac96-e59b-4971-bdc6-29406f1d343c"
+    },
+    {
+      "name": "Fruit Tart",
+      "price": 7.25,
+      "id": "2ff7da8d-1828-4cef-9fb5-663a118dcd8c"
+    },
+    {
+      "name": "Crème Brûlée",
+      "price": 8.99,
+      "id": "209a2c95-7b3e-493f-b8cf-48cc65dc225f"
+    },
+    {
+      "name": "Apple Pie",
+      "price": 6.5,
+      "id": "adb8cbe9-7e14-4167-a688-9558030aa216"
+    },
+    {
+      "name": "Brownie Sundae",
+      "price": 7.75,
+      "id": "6a9c57a0-435b-4bb7-ad68-e7b4038eaaf6"
+    },
+    {
+      "name": "Panna Cotta",
+      "price": 6.99,
+      "id": "69490ec1-36d5-45c2-b8f2-d7444f79504d"
+    },
+    {
+      "name": "Key Lime Pie",
+      "price": 8.5,
+      "id": "51a7d2b0-6868-4444-abe6-8c1f65308b79"
+    },
+    {
+      "name": "Strawberry Shortcake",
+      "price": 7.5,
+      "id": "98d900b3-bef8-4cdd-8704-e89702b7cfb2"
+    }
+  ],
+  "coffees": [
+    {
+      "name": "Espresso",
+      "price": 3.5,
+      "id": "425a5039-e27d-4bb6-bbf8-d6ddd62fbab4"
+    },
+    {
+      "name": "Cappuccino",
+      "price": 4.25,
+      "id": "595fb6bf-78e3-4d5c-a69a-a0ffd6fa266e"
+    },
+    {
+      "name": "Latte",
+      "price": 4.5,
+      "id": "ccaa77aa-52a9-43a0-b4c4-6373ba27a049"
+    },
+    {
+      "name": "Macchiato",
+      "price": 3.75,
+      "id": "8e4c3aec-3c89-49a1-85ee-b915110a4338"
+    },
+    {
+      "name": "Mocha",
+      "price": 4.99,
+      "id": "634af795-5404-40bf-b0d5-631d2d416f44"
+    }
+  ],
+  "beverages": [
+    {
+      "name": "Orange Juice",
+      "price": 3.25,
+      "id": "c9d75e86-70f5-44d6-8580-5b7e5f6dcefa"
+    },
+    {
+      "name": "Apple Juice",
+      "price": 3.25,
+      "id": "f710dca5-128b-4a6a-a84d-b393ce296a03"
+    },
+    {
+      "name": "Pineapple Juice",
+      "price": 3.5,
+      "id": "f5f2f109-7e54-4d63-beae-e31f20b53a06"
+    },
+    {
+      "name": "Watermelon Juice",
+      "price": 3.75,
+      "id": "e6ccf237-9b70-42d3-baaa-a58c7a950cd6"
+    },
+    {
+      "name": "Berry Smoothie",
+      "price": 4.25,
+      "id": "66d1d10d-04b8-42d4-b2cf-b33626afa092"
+    },
+    {
+      "name": "Soda",
+      "price": 1.99,
+      "id": "2f84656a-a53f-45f0-98e9-0a540e5857d9"
+    },
+    {
+      "name": "Iced Tea",
+      "price": 2.25,
+      "id": "f9aadebc-e809-403d-b958-ac97e3cea5b3"
+    },
+    {
+      "name": "Lemonade",
+      "price": 2.5,
+      "id": "8f006fc8-de60-4d90-9fe7-3d5dbedc727b"
+    },
+    {
+      "name": "Virgin Mojito",
+      "price": 3.25,
+      "id": "45224ae9-3bc4-4823-ac4a-7535f39b837d"
+    },
+    {
+      "name": "Sparkling Water",
+      "price": 2.75,
+      "id": "5e1dd0ec-6ae5-4ccb-8653-3ef32522c4b2"
+    }
+  ],
+  "alcoholicDrinks": [
+    {
+      "name": "Margarita",
+      "price": 7.5,
+      "id": "7474711a-cd1b-498f-b37d-018c29c0003f"
+    },
+    {
+      "name": "Old Fashioned",
+      "price": 8.25,
+      "id": "9b1d5f4a-08ad-4fff-8890-5f538e2543cf"
+    },
+    {
+      "name": "Martini",
+      "price": 9.5,
+      "id": "08c7866a-1cc0-4f80-9913-d5befa65245d"
+    },
+    {
+      "name": "Moscow Mule",
+      "price": 7.99,
+      "id": "03788a06-2672-489b-ae61-d3e19ead7d00"
+    },
+    {
+      "name": "Mojito",
+      "price": 8.75,
+      "id": "2b8e12be-54f1-4db4-b636-34ccb1107a31"
+    },
+    {
+      "name": "Whiskey Sour",
+      "price": 9.25,
+      "id": "971bc252-1701-4ac9-9b84-35b91d7c15c5"
+    },
+    {
+      "name": "Cosmopolitan",
+      "price": 8.99,
+      "id": "115ba3ec-840a-45f3-9d26-3c100f71db0c"
+    },
+    {
+      "name": "Negroni",
+      "price": 9.5,
+      "id": "1b0514f3-fc56-4cbf-b112-d5b3d0e114ca"
+    },
+    {
+      "name": "Piña Colada",
+      "price": 7.75,
+      "id": "e414e96c-0592-4e67-9345-1fba2310c7d0"
+    },
+    {
+      "name": "Irish Coffee",
+      "price": 8.25,
+      "id": "2e97597e-e628-41d5-aaf7-dabfbbe6a311"
+    }
+  ]
+}

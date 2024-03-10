@@ -1,2 +1,2 @@
-# brasserie
-yummy challenges
+- install: `npm i`
+- run tests `npm test`
